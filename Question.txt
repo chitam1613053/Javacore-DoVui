@@ -1,0 +1,16 @@
+What is your name?, Tam, Ha, Ngoc, Nhu, A
+Do you know English?, Yes, No, dont mention, thanks, A
+Do you know java core?, Yes, No, ---, ---, A
+How old are you?, 16, 18, 22, 25, D
+Do you like music?, Yes, No, thanks, --, B
+Do you have girl friend?, Yes, No, Thanks, ----, A
+Departmental restructuring will be discussed at the....monthly meeting., next, always, soon, like, A
+Each quater Acaba Exports sets....sales goals for its staff, compact, wealthy, faithful, realistic, D
+Children under five years of age are eligible.....free vision tests, over, down, for, out, C
+Mr.Koster is negotiating the....of the new contract with Arban., scope, turn, grip, drive, A
+The equipment-use guildelines....on our internal corporate Web site., may find, can be found, have found, have to find, B
+Mougey Fine Gifts is known for its large range of.....goods., regional, regionally, region, regions, A
+Income levels are rising in the....and surrounding areas., family, world, company, city, D
+Since we had a recent rate change; expect...next electricity bill to be slightly lower., you, yours, yourself, your, D
+Hotel guests have a lovely view of the ocean....the south-facing windows., up, expect, onto, through, D
+The factory is.... located near the train station., regularyly, conveniently, brightly, collectively, B
